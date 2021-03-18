@@ -1,0 +1,47 @@
+
+
+header {
+    background-image: url(../Images/header_image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200px;
+    color: navajowhite;
+    border: 1px solid blue;
+}
+
+#content {
+    float: left;
+    width: 80%;
+    margin-right: 15px;
+    border: 1px solid grey;
+}
+
+body {
+    font-family: verdana;
+    width: 80%;
+    background-color: black;
+    color: white;
+}
+
+.manager {
+    max-height: 350px;
+    overflow: auto;
+}
+
+footer {
+    clear: both;
+    border: 1px solid orange;
+    padding: 0;
+    position: relative;
+    bottom: 0px;
+    widows: 100%;
+    background-color: grey;
+    text-align: center;
+}
+
+.col_detail {
+    column-count: 3;
+    column-rule: 1px solid white;
+    column-gap: 50px;
+    padding: 2px;
+}
