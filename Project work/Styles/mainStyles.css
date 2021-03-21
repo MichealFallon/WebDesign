@@ -87,3 +87,11 @@ h2{
     margin-left: auto;
     margin-right: auto;
 }
+#colabPics{
+    width: 500;
+    height: 334;#
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid red;
+}
